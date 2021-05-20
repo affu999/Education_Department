@@ -1,0 +1,31 @@
+-> Icons{
+	-> Home
+	-> About Us
+	-> Our Work
+	-> Contact Us
+	-> username/password
+}
+
+-> Banner Images{
+	-> https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8c2Nob29sJTIwc3RhZmZ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+
+	-> https://images.unsplash.com/photo-1561489422-45de3d015e3e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8c2Nob29sJTIwc3RhZmZ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+
+	-> https://images.unsplash.com/photo-1573166675921-076ea6b621ce?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8c2Nob29sJTIwc3RhZmZ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+}
+
+-> Admin Profile Images{
+	-> https://images.unsplash.com/photo-1598386860359-77936a664e5a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNjaG9vbCUyMHN0YWZmfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+
+	-> https://images.unsplash.com/photo-1598386860055-3d6a08313ee6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzZ8fHNjaG9vbCUyMHN0YWZmfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+
+	-> https://images.unsplash.com/photo-1598387180906-5496d8ee0f3e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzd8fHNjaG9vbCUyMHN0YWZmfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+}
+
+-> Teacher Dashboard{
+	-> Banner Image{
+		-> https://images.unsplash.com/photo-1551677629-c3e314ecf29c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDh8fHNjaG9vbCUyMHN0YWZmfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+	}
+}
+
+-> PDF's
